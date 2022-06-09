@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 sidebar             : true
 show_meta           : false
 title               : "Umwelt & Klima"
