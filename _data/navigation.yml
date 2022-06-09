@@ -9,8 +9,8 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: Queer
-  url: "/queer/"
+- title: Queere Bildung
+  url: "/queere-bildung/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
