@@ -7,7 +7,6 @@ teaser              : "Hier finden Sie, sowohl eine Übersicht über vergangene 
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/umwelt-klima/"
----
 
 <ul class="side-nav">
   <li><a href="#">Link 1</a></li>
@@ -15,6 +14,7 @@ permalink           : "/umwelt-klima/"
   <li><a href="#">Link 3</a></li>
   <li><a href="#">Link 4</a></li>
 </ul>
+---
 
 <style>
 .button1 {
