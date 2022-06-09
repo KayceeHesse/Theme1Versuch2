@@ -1,5 +1,6 @@
 ---
 layout              : page-fullwidth 
+sidebar             : right
 show_meta           : true
 title               : "Umwelt & Klima"
 subheadline         : ""
@@ -7,12 +8,6 @@ teaser              : "Hier finden Sie, sowohl eine Übersicht über vergangene 
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/umwelt-klima/"
-
-sidebar: left
-tags:
-    - post format
-categories:
-    - design
 ---
 
 <style>
