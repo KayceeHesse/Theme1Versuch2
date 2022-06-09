@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 sidebar             : right
 show_meta           : false
 title               : "Umwelt & Klima"
@@ -9,6 +9,18 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/umwelt-klima/"
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+Inhalt
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div>
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 <h2>Bisherige Veranstaltugen und Seminare</h2>
 
 <h2>Geplante Veranstaltugen</h2>
