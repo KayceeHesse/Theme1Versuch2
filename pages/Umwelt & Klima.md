@@ -8,12 +8,6 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/umwelt-klima/"
 
-<ul class="side-nav">
-  <li><a href="#">Link 1</a></li>
-  <li><a href="#">Link 2</a></li>
-  <li><a href="#">Link 3</a></li>
-  <li><a href="#">Link 4</a></li>
-</ul>
 ---
 
 <style>
@@ -81,3 +75,7 @@ permalink           : "/umwelt-klima/"
   
 <a class="button1" href="https://fridaysforfuture-landau.de/news"
        target="" style="color: white" >Mein Angebot</a>
+
+<h2>Bisherige Veranstaltugen und Seminare</h2>
+<h2>Geplante Veranstaltugen</h2>
+<h2>Angebot</h2>
