@@ -9,6 +9,13 @@ header:
 permalink           : "/umwelt-klima/"
 ---
 
+<ul class="side-nav">
+  <li><a href="#">Link 1</a></li>
+  <li><a href="#">Link 2</a></li>
+  <li><a href="#">Link 3</a></li>
+  <li><a href="#">Link 4</a></li>
+</ul>
+
 <style>
 .button1 {
   border: none;
