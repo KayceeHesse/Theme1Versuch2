@@ -1,6 +1,5 @@
 ---
 layout              : page-fullwidth
-sidebar             : right
 show_meta           : false
 title               : "Umwelt & Klima"
 subheadline         : ""
@@ -21,7 +20,7 @@ Inhalt
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-<h2>Bisherige Veranstaltugen und Seminare</h2>
+<h1>Bisherige Veranstaltugen und Seminare</h1>
 
 <h2>Geplante Veranstaltugen</h2>
 
