@@ -12,7 +12,7 @@
 - title: Queere Bildung
   url: "/queere-bildung/"
   side: left
-  dropdown:
+  <!--dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
@@ -26,12 +26,12 @@
   - title: "No Header"
     url: "/design/no-header/"
   - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+    url: "/design/no-header-but-image/"-->
     
 - title: Umwelt & Klima
   url: "/umwelt-klima/"
   side: left
-  dropdown:
+  <!--dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
@@ -45,7 +45,7 @@
   - title: "No Header"
     url: "/design/no-header/"
   - title: "No Header but Image"
-    url: "/design/no-header-but-image/"    
+    url: "/design/no-header-but-image/" -->   
 
 - title: "Search"
   url: "/search/"
