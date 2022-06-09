@@ -26,7 +26,7 @@ gallery:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 40px;
+  margin: 2px 2px 60px;
   float: left !important;
   cursor: pointer;
   width: 32%;
@@ -48,7 +48,7 @@ gallery:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 40px;
+  margin: 2px 2px 60px;
   float: left !important;
   cursor: pointer;
   width: 32%;
@@ -70,7 +70,7 @@ gallery:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 40px;
+  margin: 2px 2px 60px;
   float: left !important;
   cursor: pointer;
   width: 32%;
