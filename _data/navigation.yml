@@ -5,6 +5,10 @@
 - title: Getting Started
   url: "/getting-started/"
   side: left
+  
+- title: Veranstaltungen & Seminare
+  url: "/Veranstaltung-Seminare/"
+  side: left  
 
 - title: "Templates"
   url: "/design/"
