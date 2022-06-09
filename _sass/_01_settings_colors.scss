@@ -18,7 +18,7 @@
 
 $text-color         : #111;
 $body-font-color    : $text-color;
-$body-bg            : #fdfdfd;
+$body-bg            : #000061;
 
 
 
@@ -73,8 +73,8 @@ $grey-16            : #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color    : $ci-7;
-$topbar-bg          : $ci-7;
+$topbar-bg-color    : $body-bg;
+$topbar-bg          : $topbar-bg-color;
 
 
 $topbar-dropdown-toggle-color: $ci-1;
