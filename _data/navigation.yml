@@ -9,8 +9,8 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: Veranstaltungen & Seminare
-  url: "/Veranstaltungen-Seminare/"
+- title: Queer
+  url: "/queer/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
@@ -27,6 +27,25 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
+    
+- title: Umwelt & Klima
+  url: "/umwelt-klima/"
+  side: left
+  dropdown:
+  - title: "Header with Full-Width-Image"
+    url: "/design/header-full-width-image/"
+  - title: "Header with Image and Pattern"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"    
 
 - title: "Search"
   url: "/search/"
