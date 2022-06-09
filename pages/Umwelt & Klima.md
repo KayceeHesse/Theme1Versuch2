@@ -29,7 +29,7 @@ permalink           : "/umwelt-klima/"
 
 </style>  
   
-<a class="button1" href="https://fridaysforfuture-landau.de/news"
+<a class="button1" href="id=dufüVS"
        target="" style="color: white" >Durchgeführte Veranstaltugen</a>
 
 <style>
@@ -76,8 +76,8 @@ permalink           : "/umwelt-klima/"
 <a class="button3" href="https://fridaysforfuture-landau.de/news"
        target="" style="color: white" >Angebot</a>
 
-<h2> Veranstaltugen und Seminare</h2>
+<h2 id="dufüVS"> Durchgeführte Veranstaltugen und Seminare</h2>
 
-<h2>Geplante Veranstaltugen</h2>
+<h2 id="geplV">Geplante Veranstaltugen</h2>
 
-<h2>Angebot</h2>
+<h2 id="Angebote">Angebot</h2>
