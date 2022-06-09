@@ -10,8 +10,8 @@ header:
 permalink           : "/umwelt-klima/"
 ---
 
-<h2 id="Bisherige Veranstaltugen und Seminare"></h2>
+<h2< Veranstaltugen und Seminare</h2>
 
-<h2 id="Geplante Veranstaltugen"></h2>
+<h2>Geplante Veranstaltugen</h2>
 
-<h2 id="Angebot"></h2>
+<h2>Angebot</h2>
