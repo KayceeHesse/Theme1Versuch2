@@ -73,16 +73,16 @@ $grey-16            : #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color    : $body-bg;
-$topbar-bg          : $topbar-bg-color;
+$topbar-bg-color    : $ci-7;
+$topbar-bg          : $ci-7;
 
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color  : #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color  : #fdfdfd;
+$topbar-link-color-hover: #fdfdfd;
+$topbar-link-color-active: #fdfdfd;
+$topbar-link-color-active-hover: #fdfdfd;
 
 $topbar-dropdown-label-color: $ci-8;
 $topbar-dropdown-link-bg-hover: $ci-7;
