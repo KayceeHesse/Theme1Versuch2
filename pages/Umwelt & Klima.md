@@ -1,6 +1,7 @@
 ---
 layout              : page
 sidebar             : right
+   title: "Presse"
 show_meta           : true
 title               : "Umwelt & Klima"
 subheadline         : ""
