@@ -80,9 +80,9 @@ $topbar-bg          : $topbar-bg-color;
 $topbar-dropdown-toggle-color: $ci-1;
 
 $topbar-link-color  : #fdfdfd;
-$topbar-link-color-hover: #fdfdfd;
-$topbar-link-color-active: #fdfdfd;
-$topbar-link-color-active-hover: #fdfdfd;
+$topbar-link-color-hover: #000;
+$topbar-link-color-active: #000;
+$topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-8;
 $topbar-dropdown-link-bg-hover: $ci-7;
@@ -93,7 +93,7 @@ $topbar-link-bg-active-hover: $ci-8;
 
 
 $topbar-dropdown-bg: $ci-7; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-link-color: #fdfdfd;
 $topbar-dropdown-link-bg: $ci-8;
 
 $topbar-menu-link-color-toggled: $ci-1;
