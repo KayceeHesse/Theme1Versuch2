@@ -37,7 +37,7 @@ gallery:
 </style>  
   
 <a class="button1" href="#dufüVS"
-       target="" style="color: white" >Durchgeführte Veranstaltugen</a>
+       target="" style="color: $ci-7" >Durchgeführte Veranstaltugen</a>
 
 <style>
 .button2 {
@@ -59,7 +59,7 @@ gallery:
 </style>  
   
 <a class="button2" href="#geplV"
-       target="" style="color: white" >Zukünftige Veranstaltugen</a>
+       target="" style="color: $ci-7" >Zukünftige Veranstaltugen</a>
 
 <style>
 .button3 {
@@ -81,7 +81,7 @@ gallery:
 </style>  
   
 <a class="button3" href="#Angebot"
-       target="" style="color: white" >Angebot</a> <br>
+       target="" style="color: $ci-7" >Angebot</a> <br>
        
 <p> </p>
 <p> </p>
