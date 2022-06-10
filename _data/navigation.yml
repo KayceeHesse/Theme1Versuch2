@@ -5,9 +5,9 @@
 - title: News & Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: Queere Bildung
   url: "/queere-bildung/"
