@@ -32,12 +32,12 @@ gallery:
   width: 100%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button1 {background-color: #fdfdfd;} /* Green */
 
 </style>  
   
 <a class="button1" href="#dufüVS"
-       target="" style="color: $ci-7" >Durchgeführte Veranstaltugen</a>
+       target="" style="color: #fdfdfd;" >Durchgeführte Veranstaltugen</a>
 
 <style>
 .button2 {
@@ -54,12 +54,12 @@ gallery:
   width: 100%;
 }
 
-.button2 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #fdfdfd;} /* Green */
 
 </style>  
   
 <a class="button2" href="#geplV"
-       target="" style="color: $ci-7" >Zukünftige Veranstaltugen</a>
+       target="" style="color: #fdfdfd;" >Zukünftige Veranstaltugen</a>
 
 <style>
 .button3 {
@@ -76,12 +76,12 @@ gallery:
   width: 100%;
 }
 
-.button3 {background-color: #4CAF50;} /* Green */
+.button3 {background-color: #fdfdfd;} /* Green */
 
 </style>  
   
 <a class="button3" href="#Angebot"
-       target="" style="color: $ci-7" >Angebot</a> <br>
+       target="" style="color: #fdfdfd;" >Angebot</a> <br>
        
 <p> </p>
 <p> </p>
