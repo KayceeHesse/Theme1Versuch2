@@ -32,7 +32,7 @@ gallery:
   width: 100%;
 }
 
-.button1 {background-color: #1E1A7D;} /* Green */
+.button1 {background-color: #1E1A7D;} /* Blue */
 
 </style>  
   
@@ -54,7 +54,7 @@ gallery:
   width: 100%;
 }
 
-.button2 {background-color: #1E1A7D;} /* Green */
+.button2 {background-color: #1E1A7D;} /* Blue */
 
 </style>  
   
@@ -76,7 +76,7 @@ gallery:
   width: 100%;
 }
 
-.button3 {background-color: #1E1A7D;} /* Green */
+.button3 {background-color: #1E1A7D;} /* Blue */
 
 </style>  
   
