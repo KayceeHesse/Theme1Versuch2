@@ -26,10 +26,10 @@ gallery:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 20px 70px;
+  margin: 2px 2px 70px;
   float: left !important;
   cursor: pointer;
-  width: 32%;
+  width: 100%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -48,10 +48,10 @@ gallery:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 20px 70px;
+  margin: 2px 2px 70px;
   float: left !important;
   cursor: pointer;
-  width: 32%;
+  width: 100%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
@@ -70,10 +70,10 @@ gallery:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 20px 70px;
+  margin: 2px 2px 70px;
   float: left !important;
   cursor: pointer;
-  width: 32%;
+  width: 100%;
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
