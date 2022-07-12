@@ -47,6 +47,10 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/" 
 
+- title: Angebot
+  url: "/Angebot/"
+  side: left  
+
 - title: "Search"
   url: "/search/"
   side: right
