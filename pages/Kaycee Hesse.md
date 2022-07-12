@@ -1,5 +1,5 @@
 ---
-layout              : page-fullwidth
+layout              : frontpage
 show_meta           : false
 title               : "Kaycee Hesse"
 subheadline         : ""
