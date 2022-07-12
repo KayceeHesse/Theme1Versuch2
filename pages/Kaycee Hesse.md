@@ -5,7 +5,7 @@ title               : "Kaycee Hesse"
 subheadline         : ""
 teaser              : ""
 header:
-   image_fullwidth  : "Website Banner Template.png"
+   image_fullwidth  : "Website_Banner_Template.png"
 permalink           : "/"
 homepage: true
 ---
