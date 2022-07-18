@@ -3,7 +3,7 @@
   side: left  
 
 - title: News & Blog
-  url: "/blog/"
+  url: "/news/"
   side: left
 #  dropdown:
 #  - title: "Blog Archive"
@@ -28,8 +28,8 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
     
-- title: Umwelt & Klima
-  url: "/umwelt-klima/"
+- title: Klima & Umwelt
+  url: "/klima/"
   side: left
 #  dropdown:
 #  - title: "Header with Full-Width-Image"
@@ -47,11 +47,11 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/" 
 
-- title: Angebot
-  url: "/Angebot/"
+- title: Angebote & Preise
+  url: "/Angebote/"
   side: left  
 
-- title: "Search"
+- title: "Suche"
   url: "/search/"
   side: right
 
