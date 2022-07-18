@@ -48,7 +48,7 @@
 #    url: "/design/no-header-but-image/" 
 
 - title: Angebote & Preise
-  url: "/Angebote/"
+  url: "/angebote/"
   side: left  
 
 - title: "Suche"
