@@ -2,13 +2,13 @@
 layout              : page-fullwidth
 sidebar             : true
 show_meta           : false
-title               : "Umwelt & Klima"
+title               : "Klima & Umwelt"
 subheadline         : ""
 teaser              : "Hier finden Sie, sowohl eine Übersicht über vergangene Veranstaltungen und gehaltene Seminare, als auch die für die zukunft geplanten und mein allgemeines Angebot."
 header:
-   title: Umwelt & Klima
+   title: Klima & Umwelt
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/umwelt-klima/"
+permalink           : "/klima/"
 
 gallery:
   - url: assets/images/Lützerath/20211030_120302.jpg
