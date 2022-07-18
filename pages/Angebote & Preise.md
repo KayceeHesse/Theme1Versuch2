@@ -2,12 +2,12 @@
 layout              : page-fullwidth
 sidebar             : true
 show_meta           : false
-title               : "Angebot"
+title               : "Angebote & Preise"
 subheadline         : ""
 teaser              : "Hier finden Sie mein aktuelles Angebot."
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/angebot/"
+permalink           : "/angebote/"
 
 gallery:
   - url: assets/images/Lützerath/20211030_120302.jpg
