@@ -2,13 +2,6 @@
   url: "/"
   side: left  
 
-- title: News & Blog
-  url: "/news/"
-  side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
-
 - title: Queere Bildung
   url: "/queere-bildung/"
   side: left
@@ -46,6 +39,13 @@
 #    url: "/design/no-header/"
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/" 
+
+- title: News & Blog
+  url: "/news/"
+  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: Angebote & Preise
   url: "/angebote/"
