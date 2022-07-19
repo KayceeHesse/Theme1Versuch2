@@ -41,7 +41,7 @@
 #    url: "/design/no-header-but-image/" 
 
 - title: News & Blog
-  url: "/news/"
+  url: "/blog/"
   side: left
 #  dropdown:
 #  - title: "Blog Archive"
