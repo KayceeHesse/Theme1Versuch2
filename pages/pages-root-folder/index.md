@@ -6,6 +6,7 @@
 #
 layout: page
 header:
+  title: Kaycee Hesse
   image_fullwidth: Website_Banner_Template.png
 widget1:
   title: "Blog & Portfolio"
@@ -50,3 +51,5 @@ homepage: false
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+wow das geht auch als Frontpage
