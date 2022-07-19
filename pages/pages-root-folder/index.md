@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 header:
   title: Kaycee Hesse
   image_fullwidth: Website_Banner_Template.png
