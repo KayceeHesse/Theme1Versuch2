@@ -9,7 +9,7 @@ homepage: true
 
 <p> </p>
 
-<Wer bin ich?>/a> <br>
+<br> Wer bin ich? <br>
 Projektmanagerin, Politikerin, Veranstaltungsleitung, Bildungsreferentin – Ich bin schon einiges gewesen. Am ehesten würde ich mich als Aktivistin bezeichnen. Ich bin immer aktiv, setze Projekte und Ideen in die tat um, betreue und berate Gruppen, organisiere Projekte, mache Workshops und einiges mehr.
 Als gebürtige Landauerin liegt es mir besonders daran, mit meinen Projekten eine Bereicherung für Landau und Umgebung zu schaffen und Positives für die Menschen hier vor Ort zu bewegen.
 
