@@ -9,13 +9,13 @@ permalink           : "/contact/"
 
 "Füge hier Kontaktformular ein"
 
-Kontaktdaten:
-E-Mail: hessekaycee@gmx.de
-Telefon: 015255406876
+Kontaktdaten: <p> </p>
+E-Mail: hessekaycee@gmx.de <p> </p>
+Telefon: 015255406876 <p> </p>
 
-Social Media:
-Instagram: https://instagram.com/kayceehesse
-Twitter: https://twitter.com/KayceeHesse
-Website: https://kayceehesse-landau.de
+Social Media: <p> </p>
+Instagram: https://instagram.com/kayceehesse <p> </p>
+Twitter: https://twitter.com/KayceeHesse <p> </p>
+Website: https://kayceehesse-landau.de <p> </p>
 
 If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
