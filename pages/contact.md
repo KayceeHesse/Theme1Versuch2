@@ -4,7 +4,7 @@ title               : "Kontakt"
 meta_title          : 
 subheadline         : "Kontaktformular"
 teaser              : "Schreiben Sie mir gerne Ihre Anfrage über das nachfolgende Kontaktformular"
-permalink           : "/kontakt/"
+permalink           : "/contact/"
 ---
 
 "Füge hier Kontaktformular ein"
