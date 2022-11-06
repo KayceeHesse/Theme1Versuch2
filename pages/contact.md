@@ -1,9 +1,21 @@
 ---
 layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
-permalink           : "/contact/"
+title               : "Kontakt"
+meta_title          : 
+subheadline         : "Kontaktformular"
+teaser              : "Schreiben Sie mir gerne Ihre Anfrage über das nachfolgende Kontaktformular"
+permalink           : "/kontakt/"
 ---
+
+"Füge hier Kontaktformular ein"
+
+Kontaktdaten:
+E-Mail: hessekaycee@gmx.de
+Telefon: 015255406876
+
+Social Media:
+Instagram: https://instagram.com/kayceehesse
+Twitter: https://twitter.com/KayceeHesse
+Website: https://kayceehesse-landau.de
+
 If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
