@@ -6,7 +6,7 @@ title               : "Angebote & Preise"
 subheadline         : ""
 teaser              : "Hier finden Sie mein aktuelles Angebot."
 header:
-   title: Angebot & Preise
+   title: 
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/angebote/"
 
