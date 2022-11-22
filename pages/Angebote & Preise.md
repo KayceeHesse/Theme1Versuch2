@@ -7,7 +7,7 @@ subheadline         : ""
 teaser              : "Hier finden Sie mein aktuelles Angebot."
 header:
    title: 
-   image_fullwidth  : "images/Homepage_Banner.png"
+   image_fullwidth  : "Homepage_Banner.png"
 permalink           : "/angebote/"
 
 gallery:
