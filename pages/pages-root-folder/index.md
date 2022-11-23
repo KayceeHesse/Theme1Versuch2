@@ -1,10 +1,11 @@
 ---
 layout: page-fullwidth
 header: no
-image_fullwidth: "Homepage_Banner.png"
 permalink: /index.html
 homepage: true
 ---
+
+<img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Homepage_Banner.png?raw=true" alt="Header Banner" style="float:right;" height="100%" width="100%">
 
 <p> </p>
 
