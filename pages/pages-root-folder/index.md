@@ -9,7 +9,7 @@ homepage: true
 
 <p> </p>
 
-<h2> Wer bin ich? </h2> <br>
+<h3> Wer bin ich? </h3> <br>
 Projektmanagerin, Politikerin, Veranstaltungsleitung, Bildungsreferentin – Ich bin schon einiges gewesen. Am ehesten würde ich mich als Aktivistin bezeichnen. Ich bin immer aktiv, setze Projekte und Ideen in die tat um, betreue und berate Gruppen, organisiere Projekte, mache Workshops und einiges mehr.
 Als gebürtige Landauerin liegt es mir besonders daran, mit meinen Projekten eine Bereicherung für Landau und Umgebung zu schaffen und Positives für die Menschen hier vor Ort zu bewegen.
 
@@ -17,7 +17,7 @@ Als gebürtige Landauerin liegt es mir besonders daran, mit meinen Projekten ein
 Ich arbeite freiberuflich als Projektmanagerin und im Bereich Consulting, vor allem in und um Landau, da ich mir hier inzwischen ein solides Netzwerk aufbauen konnte. Zusätzlich biete ich als Bildungsreferentin Seminare und Workshops zu den Themen der sexuellen, geschlechtlichen und romantischen Vielfalt und im Bereich Klimaschutz an.
 Nebenher arbeite ich für das Studierendenwerk Vorderpfalz als Referentin für Kommunikation und Öffentlichkeitsarbeit.
 
-<b> Meine Freizeit: </b> <br>
+<h3> Meine Freizeit: </h3> <br>
 Nun, was soll ich sagen? Meine Freizeit besteht vorwiegend aus Aktivismus, Ehrenamt und gelegentlich Politik.
 Mit der Landauer Fridays for Future Gruppe „Klimastreik Landau“ bin ich öffentlichkeitswirksam und in der Veranstaltungsorganisation tätig. Außerdem vertrete ich die hiesige Ortsgruppe auch auf Bundesebene und bin seit 2020 Mitglied der bundesweiten Organisationsgruppe, welche die bewegungsweite Kommunikation, sowie die Durchführung von Abstimmungen übernimmt.
 Auf den großen Demonstrationen und internationalen Konferenzen zu Klimathemen, bin ich ebenfalls immer gerne und so oft es mir möglich ist.
