@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-header: no
+header: true
 permalink: /index.html
 homepage: true
 ---
