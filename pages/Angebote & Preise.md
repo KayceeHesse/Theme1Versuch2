@@ -16,7 +16,7 @@ Sie möchten einen Workshop zu sexueller, geschlechtlicher und romantischer Viel
 •	40€ Honorar pro Stunde
 <br>
 <h3> Vorträge: </h3>
-Ich biete Ihnen einen Vortrag über 45 Minuten zu einem meiner beiden Schwerpunktthemen Klimaschutz oder queere Vielfalt, gerne auch mit vertiefendem Wissen zu einem speziellen Unterthema. Meine Vorträge sind fachlich aktuell, aber auch niedrigschwellig gehalten und sollen zum Mitdenken anregen. Mein persönliches Ziel dabei ist es, die Teilnehmenden dazu zu bewegen, über den eigenen Tellerrand zu blicken. <br>
+Ich biete Ihnen einen Vortrag über 45 Minuten zu einem meiner beiden Schwerpunktthemen Klimaschutz oder queere Vielfalt, gerne auch mit vertiefendem Wissen zu einem speziellen Unterthema. Meine Vorträge sind fachlich aktuell, aber auch niedrigschwellig gehalten und sollen zum Mitdenken anregen. Mein persönliches Ziel dabei ist es, die Teilnehmenden dazu zu bewegen, über den eigenen Tellerrand hinaus zu blicken. <br>
 •	50€ Honorar
 <br>
 <h3> Projekt- & Veranstaltungsmanagement: </h3>
