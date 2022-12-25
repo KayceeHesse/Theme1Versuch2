@@ -20,17 +20,15 @@ Wie groß wäre die Erleichterung, wenn dich auch nur ein Mal zwischendurch jema
 richtigen Namen nennt? <br>
 
 Wenn du nicht tatsächlich gerade Lukas heißt, ist die Antwort auf zweiteres eindeutig nein. <br>
-Für viele Menschen ist das jedoch schmerzlicher Alltag.
+Für viele Menschen ist das jedoch schmerzlicher Alltag. </br>
 
-<br>
-
-Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt.
-Stellt sich nur die Frage, warum?
+Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. </br>
+Stellt sich nur die Frage, warum? </br>
 Vielleicht weil Alex beim Sport in die Frauenumkleide muss oder weil die Lehrkraft Alex morgens
-beim Durchgehen der Anwesenheitsliste Alexandra nennt.
-Vielleicht aber auch weil Alex lesbisch ist oder aber Alex ist schwul?
+beim Durchgehen der Anwesenheitsliste Alexandra nennt. </br>
+Vielleicht aber auch weil Alex lesbisch ist oder aber Alex ist schwul? </br>
 Kann auch sein, dass sich sein Talent für Fußball in Grenzen hält oder sie versteht sich einfach
-nicht so gut mit den anderen Mädchen.
+nicht so gut mit den anderen Mädchen. </br>
 
 <h3> Wer ist Alex? </h3> <br>
 
@@ -47,7 +45,7 @@ Auch Mobbing durch Gleichaltrige, sowie Unverständnis von Seiten der Erwachsene
 jungen, queeren Menschen, sich selbst zu akzeptieren. Das führt unter anderem zu enormer, 
 psychischer Belastung und einer stark erhöhten Suizidrate. <br>
 <br>
-<b> Deshalb ist mir meine Workshop-Arbeit an den Schulen auch so wichtig </b> </br>
+<b> Deshalb ist mir meine Workshop-Arbeit an den Schulen auch so wichtig </b> 
 und die Seminare zu sexueller, geschlechtlicher und romantischer Vielfalt essentiell für ein gutes Miteinander. Leider ist 
 das Bewusstsein für queere Vielfalt in unserer Gesellschaft nicht besonders groß. Gerade Schulen 
 und Unis machen einen sehr großen Teil des Lebens eines jungen Menschen aus und sind somit 
