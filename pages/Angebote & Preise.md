@@ -25,6 +25,6 @@ Sie wollen ein Projekt oder eine Veranstaltung in und um Landau umsetzen und ben
 <br>
 <h3> Beratung: </h3>
 Ich helfe Ihnen bei den ersten Schritten Ihres Projektes an einem Vor- oder Nachmittag im Rahmen von 4 Stunden. Durch mein breites Netzwerk in Landau, stehe ich Ihnen gerne zur Seite, an welche Stellen Sie sich wenden müssen, welche Amtswege für Ihr Projekt zu gehen sind, wo Sie nötiges Equipment herbekommen und vieles mehr. Alles was Sie benötigen - wir finden den Einstieg. <br>
-•	100€ netto
+•	100€ netto <br>
 <br>
 Bei allen genannten Dienstleistungen kommen ggf. Fahrtkosten hinzu, insbesondere bei Einsätzen außerhalb von Landau.
