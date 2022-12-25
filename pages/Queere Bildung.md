@@ -12,25 +12,28 @@ permalink           : "/queere-bildung/"
 
 <h3> Du da! Genau du! Beantworte bitte einmal folgende drei Fragen: </h3> <br>
 Wenn ich dich jetzt Lukas nennen würde und durchgängig von dir als Mann sprechen würde.
-Und wenn nicht nur ich das mache, sondern jeder andere Mensch in deinem Umfeld auch.
-Wie würdest du dich dabei fühlen, würde es dich belasten?
+Und wenn nicht nur ich das mache, sondern jeder andere Mensch in deinem Umfeld auch. <br>
+Wie würdest du dich dabei fühlen, würde es dich belasten? <br>
 Würdest du irgendwann akzeptieren, dass Lukas dein Name ist, würdest du akzeptieren, dass du ein 
-Mann bist?
+Mann bist? <br>
 Wie groß wäre die Erleichterung, wenn dich auch nur ein Mal zwischendurch jemand bei deinem 
-richtigen Namen nennt?
+richtigen Namen nennt? <br>
 
-Wenn du nicht tatsächlich gerade Lukas heißt, ist die Antwort auf zweiteres eindeutig nein.
+Wenn du nicht tatsächlich gerade Lukas heißt, ist die Antwort auf zweiteres eindeutig nein. <br>
 Für viele Menschen ist das jedoch schmerzlicher Alltag.
 
-<font><font color =blue> <i> Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. <i> </font>
-<i> Stellt sich nur die Frage, warum? <i>
-<i> Vielleicht weil Alex beim Sport in die Frauenumkleide muss oder weil die Lehrkraft Alex morgens <i>
-<i> beim Durchgehen der Anwesenheitsliste Alexandra nennt. <i>
-<i> Vielleicht aber auch weil Alex lesbisch ist oder aber Alex ist schwul? <i>
-<i> Kann auch sein, dass sich sein Talent für Fußball in Grenzen hält oder sie versteht sich einfach <i>
-<i> nicht so gut mit den anderen Mädchen. </i>
+<br>
+
+<font><font color =blue> <i> Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. </i> </font>
+Stellt sich nur die Frage, warum?
+Vielleicht weil Alex beim Sport in die Frauenumkleide muss oder weil die Lehrkraft Alex morgens
+beim Durchgehen der Anwesenheitsliste Alexandra nennt.
+Vielleicht aber auch weil Alex lesbisch ist oder aber Alex ist schwul?
+Kann auch sein, dass sich sein Talent für Fußball in Grenzen hält oder sie versteht sich einfach
+nicht so gut mit den anderen Mädchen.
 
 <h3> Wer ist Alex? </h3> <br>
+
 Diese Frage stellt sich Alex wohl auch selbst. Alex ist ein Beispiel dafür, dass wir anhand eines 
 Namens oder von Äußerlichkeiten nicht wissen können, wie sich ein Mensch fühlt und wie er 
 angesprochen und behandelt werden möchte.
@@ -42,11 +45,9 @@ ist es häufig schwierig, sich selbst zu finden und einen Namen für das Gefühl
 sein. 
 Auch Mobbing durch Gleichaltrige, sowie Unverständnis von Seiten der Erwachsenen erschwert es 
 jungen, queeren Menschen, sich selbst zu akzeptieren. Das führt unter anderem zu enormer, 
-psychischer Belastung und einer stark erhöhten Suizidrate.
+psychischer Belastung und einer stark erhöhten Suizidrate. <br>
 
-<p> </p>
-
-<b> Deshalb ist mir meine Workshop-Arbeit an den Schulen auch so wichtig </b>
+<b> Deshalb ist mir meine Workshop-Arbeit an den Schulen auch so wichtig </b> <br>
 und die Seminare zu sexueller, geschlechtlicher und romantischer Vielfalt essentiell für ein gutes Miteinander. Leider ist 
 das Bewusstsein für queere Vielfalt in unserer Gesellschaft nicht besonders groß. Gerade Schulen 
 und Unis machen einen sehr großen Teil des Lebens eines jungen Menschen aus und sind somit 
