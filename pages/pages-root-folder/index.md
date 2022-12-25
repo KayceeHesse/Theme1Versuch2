@@ -19,6 +19,8 @@ Nebenher arbeite ich für das Studierendenwerk Vorderpfalz als Referentin für K
 Nun, was soll ich sagen? Meine Freizeit besteht vorwiegend aus Aktivismus, Ehrenamt und gelegentlich Politik. <br>
 Mit der Landauer Fridays for Future Gruppe „Klimastreik Landau“ bin ich öffentlichkeitswirksam und in der Veranstaltungsorganisation tätig. Außerdem vertrete ich die hiesige Ortsgruppe auch auf Bundesebene und bin seit 2020 Mitglied der bundesweiten Organisationsgruppe, welche die bewegungsweite Kommunikation, sowie die Durchführung von Abstimmungen übernimmt. <br>
 Auf den großen Demonstrationen und internationalen Konferenzen zu Klimathemen, bin ich ebenfalls immer gerne und so oft es mir möglich ist. <br>
+<br>
 Mit meiner Tätigkeit bei Schlau Rheinland-Pfalz führe ich seit einigen Jahren ehrenamtlich Workshops zu sexueller, geschlechtlicher und romantischer Vielfalt an Schulen und FSJ-Gruppen durch. Darüber und über die DGTI habe ich eine pädagogische Grundschulung erfahren und mich kürzlich entschieden in diesem Bereich beruflich, auch unabhängig von Schlau, Workshops und Seminare anzubieten, einfach weil die Nachfrage und der Bedarf so hoch sind und ich Menschen damit nachhaltig helfen kann. <br>
+<br>
 Anfang 2021 bin ich für die Klimaliste an Listenplatz 4 zur Rheinland-Pfälzischen Landtagswahl angetreten. Seitdem bin ich kontinuierlich lokalpolitisch aktiv und versuche eine Stimme für all jene zu sein, die unsere Zukunft aktiv mitgestalten wollen. Inzwischen bin ich in der Landauer Stadtpolitik recht bekannt und gut vernetzt und hoffe so, im regelmäßigen Austausch ein positiver Einfluss sein zu können.
 
