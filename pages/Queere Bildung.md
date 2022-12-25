@@ -20,19 +20,16 @@ Wie groß wäre die Erleichterung, wenn dich auch nur ein Mal zwischendurch jema
 richtigen Namen nennt? <br>
 
 Wenn du nicht tatsächlich gerade Lukas heißt, ist die Antwort auf zweiteres eindeutig nein. <br>
-Für viele Menschen ist das jedoch schmerzlicher Alltag. </br>
+Für viele Menschen ist das jedoch schmerzlicher Alltag.
 
-Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. </br>
-Stellt sich nur die Frage, warum? </br>
+Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. Stellt sich nur die Frage, warum? <br>
 Vielleicht weil Alex beim Sport in die Frauenumkleide muss oder weil die Lehrkraft Alex morgens
-beim Durchgehen der Anwesenheitsliste Alexandra nennt. </br>
-Vielleicht aber auch weil Alex lesbisch ist oder aber Alex ist schwul? </br>
+beim Durchgehen der Anwesenheitsliste Alexandra nennt. <br>
+Vielleicht aber auch weil Alex lesbisch ist oder aber Alex ist schwul? <br>
 Kann auch sein, dass sich sein Talent für Fußball in Grenzen hält oder sie versteht sich einfach
-nicht so gut mit den anderen Mädchen. </br>
+nicht so gut mit den anderen Mädchen. <br>
 
-<h3> Wer ist Alex? </h3> <br>
-
-Diese Frage stellt sich Alex wohl auch selbst. Alex ist ein Beispiel dafür, dass wir anhand eines 
+<h3> Wer ist Alex? </h3> <br> Diese Frage stellt sich Alex wohl auch selbst. Alex ist ein Beispiel dafür, dass wir anhand eines 
 Namens oder von Äußerlichkeiten nicht wissen können, wie sich ein Mensch fühlt und wie er 
 angesprochen und behandelt werden möchte.
 So wie Alex oder unserem Nicht-Lukas geht es vielen Kindern und Jugendlichen. Sexuelle 
