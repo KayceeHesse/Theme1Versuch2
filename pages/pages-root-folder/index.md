@@ -7,8 +7,6 @@ permalink: /index.html
 homepage: true
 ---
 
-<img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Homepage_Banner.png?raw=true" alt="Header Banner" style="float:right;" height="100%" width="100%">
-
 <p> </p>
 
 <h3> Wer bin ich? </h3> <br>
