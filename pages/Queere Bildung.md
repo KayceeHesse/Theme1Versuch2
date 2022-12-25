@@ -21,12 +21,12 @@ Mann bist? <br>
 richtigen Namen nennt? <br>
 
 Wenn du nicht tatsächlich gerade Lukas heißt, ist die Antwort auf zweiteres eindeutig nein. <br>
-Für viele Menschen ist das jedoch schmerzlicher Alltag.
-
-<font color = blue> *Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. Stellt sich nur die Frage, warum? <br>
+Für viele Menschen ist das jedoch schmerzlicher Alltag. <br>
+<br>
+<font color = blue> <i> Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. Stellt sich nur die Frage, warum? <br>
 Vielleicht weil Alex beim Sport in die Frauenumkleide muss oder weil die Lehrkraft Alex morgens beim Durchgehen der Anwesenheitsliste Alexandra nennt.
 Vielleicht aber auch weil Alex lesbisch ist oder aber Alex ist schwul? <br>
-Kann auch sein, dass sich sein Talent für Fußball in Grenzen hält oder sie versteht sich einfach nicht so gut mit den anderen Mädchen.* </font> <br>
+Kann auch sein, dass sich sein Talent für Fußball in Grenzen hält oder sie versteht sich einfach nicht so gut mit den anderen Mädchen. </i> </font> <br>
 
 <h3> Wer ist Alex? </h3> <br>
 Diese Frage stellt sich Alex wohl auch selbst. Alex ist ein Beispiel dafür, dass wir anhand eines 
