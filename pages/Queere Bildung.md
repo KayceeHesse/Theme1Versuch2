@@ -52,7 +52,7 @@ Kinder und Jugendlichen auf ihrem Weg zu unterstützen und auf alle Bedürfnisse
 können. <br>
 Dem möchte ich abhelfen. Seit über drei Jahren bin ich nun in der queeren Bildungsarbeit tätig, 
 ehrenamtlich bei Schlau Rheinland-Pfalz, aber auch als freie Honorarkraft. Ich habe bereits 
-Workshops in Schulklassen und FSJ-Gruppen, sowie Lehrkräftefortbildungen geleitet, Seminare und 
+Workshops in Schulklassen und FSJ-Gruppen sowie Lehrkräftefortbildungen geleitet, Seminare und 
 Vorträge gehalten und auch im direkten Kontakt Beratungsgespräche mit Hilfesuchenden geführt. <br>
 Ich bemühe mich dabei immer auf die individuellen Thematiken und Bedürfnisse so gut wie möglich 
 einzugehen, damit ich einen positiven Einfluss haben und den Menschen nachhaltig helfen kann –
