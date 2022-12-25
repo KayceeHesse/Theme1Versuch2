@@ -38,7 +38,7 @@ schon früh in der Kindheit und über das gesamte Leben hinweg, eine große Roll
 Doch sind die Kinder und Jugendlichen nicht durch ihr privates Umfeld mit diesen Themen vertraut, 
 ist es häufig schwierig, sich selbst zu finden und einen Namen für das Gefühl zu finden, „anders“ zu 
 sein. 
-Auch Mobbing durch Gleichaltrige, sowie Unverständnis von Seiten der Erwachsenen erschwert es 
+Auch Mobbing durch Gleichaltrige sowie Unverständnis von Seiten der Erwachsenen erschwert es 
 jungen, queeren Menschen, sich selbst zu akzeptieren. Das führt unter anderem zu enormer, 
 psychischer Belastung und einer stark erhöhten Suizidrate. <br>
 <br>
