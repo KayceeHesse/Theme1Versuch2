@@ -1,15 +1,16 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Queere Bildung"
+title               : ""
 subheadline         : ""
-teaser              : "Du da! Genau du! Beantworte bitte einmal folgende drei Fragen:"
+teaser              : ""
 header:
    title: Queere Bildung
    image_fullwidth  : "QueereBildung_Banner.png"
 permalink           : "/queere-bildung/"
 ---
 
+<h3> Du da! Genau du! Beantworte bitte einmal folgende drei Fragen: </h3> <br>
 Wenn ich dich jetzt Lukas nennen würde und durchgängig von dir als Mann sprechen würde.
 Und wenn nicht nur ich das mache, sondern jeder andere Mensch in deinem Umfeld auch.
 Wie würdest du dich dabei fühlen, würde es dich belasten?
@@ -21,7 +22,7 @@ richtigen Namen nennt?
 Wenn du nicht tatsächlich gerade Lukas heißt, ist die Antwort auf zweiteres eindeutig nein.
 Für viele Menschen ist das jedoch schmerzlicher Alltag.
 
-<i> Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. <i>
+<font><font color =purple><i> Alex geht nicht gerne in die Schule, weil Alex sich dort unwohl fühlt. <i></font>
 <i> Stellt sich nur die Frage, warum? <i>
 <i> Vielleicht weil Alex beim Sport in die Frauenumkleide muss oder weil die Lehrkraft Alex morgens <i>
 <i> beim Durchgehen der Anwesenheitsliste Alexandra nennt. <i>
@@ -29,7 +30,7 @@ Für viele Menschen ist das jedoch schmerzlicher Alltag.
 <i> Kann auch sein, dass sich sein Talent für Fußball in Grenzen hält oder sie versteht sich einfach <i>
 <i> nicht so gut mit den anderen Mädchen. <i>
 
-<br> Wer ist Alex? <br>
+<h3> Wer ist Alex? </h3> <br>
 Diese Frage stellt sich Alex wohl auch selbst. Alex ist ein Beispiel dafür, dass wir anhand eines 
 Namens oder von Äußerlichkeiten nicht wissen können, wie sich ein Mensch fühlt und wie er 
 angesprochen und behandelt werden möchte.
@@ -43,7 +44,7 @@ Auch Mobbing durch Gleichaltrige, sowie Unverständnis von Seiten der Erwachsene
 jungen, queeren Menschen, sich selbst zu akzeptieren. Das führt unter anderem zu enormer, 
 psychischer Belastung und einer stark erhöhten Suizidrate.
 
-<br> Deshalb ist mir meine Workshop-Arbeit an den Schulen auch so wichtig <br>
+<b> Deshalb ist mir meine Workshop-Arbeit an den Schulen auch so wichtig <b>
 und die Seminare zu sexueller, geschlechtlicher und romantischer Vielfalt essentiell für ein gutes Miteinander. Leider ist 
 das Bewusstsein für queere Vielfalt in unserer Gesellschaft nicht besonders groß. Gerade Schulen 
 und Unis machen einen sehr großen Teil des Lebens eines jungen Menschen aus und sind somit 
