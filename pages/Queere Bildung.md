@@ -43,7 +43,7 @@ jungen, queeren Menschen, sich selbst zu akzeptieren. Das führt unter anderem z
 psychischer Belastung und einer stark erhöhten Suizidrate. <br>
 <br>
 <b> Deshalb ist mir meine Workshop-Arbeit an den Schulen auch so wichtig </b> 
-und die Seminare zu sexueller, geschlechtlicher und romantischer Vielfalt essentiell für ein gutes Miteinander. Doch leider ist 
+und die Seminare zu sexueller, geschlechtlicher und romantischer Vielfalt essentiell für ein gutes Miteinander. Leider ist 
 das Bewusstsein für queere Vielfalt in unserer Gesellschaft nicht besonders groß. <br>
 Gerade Schulen und Unis machen einen sehr großen Teil des Lebens eines jungen Menschen aus und sind somit 
 explizit in der Verantwortung, über solche identitätsbildenden Themen positiv aufzuklären. Oft fehlt 
