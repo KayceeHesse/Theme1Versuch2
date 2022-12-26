@@ -4,18 +4,11 @@ sidebar             : true
 show_meta           : false
 title               : "Klima & Umwelt"
 subheadline         : ""
-teaser              : "Hier finden Sie, sowohl eine Übersicht über vergangene Veranstaltungen und gehaltene Seminare, als auch die für die zukunft geplanten und mein allgemeines Angebot."
+teaser              : "Mein mit Abstand umfangreichstes und vielschichtigstes Thema"
 header:
    title: Klima & Umwelt
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/klima/"
-
-gallery:
-  - url: assets/images/Lützerath/20211030_120302.jpg
-    image_path: assets/images/Lützerath/20211030_120302.jpg
-  - url: assets/images/Lützerath/20211030_120302.jpg
-    image_path: assets/images/Lützerath/20211030_120302.jpg
-
 ---
 
 callforaction:
