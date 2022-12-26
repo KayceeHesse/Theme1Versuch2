@@ -2,7 +2,7 @@
 layout              : page-fullwidth
 sidebar             : true
 show_meta           : false
-title               : "Klima & Umwelt"
+title               : ""
 subheadline         : ""
 teaser              : "Mein mit Abstand umfangreichstes und vielschichtigstes Thema"
 header:
