@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-   title: Kaycee Hesse
+   title: 
    image_fullwidth  : "Homepage_Banner.png"
 permalink: /index.html
 homepage: true
