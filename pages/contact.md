@@ -17,12 +17,13 @@ permalink           : "/contact/"
 
 </div> <br>
 
-Wir sind zu erreichen über das Kontaktformular, Mail, Twitter und Instagram.  <br>
-  
+Ich bin zu erreichen über das Kontaktformular, Mail, Twitter und Instagram.  <br>
+Ich für einen persönlichen Kontakt bin ich auch unter: 01525 5406876 zu erreichen <br>
+
 <p> </p>    
   
 <b>Kontaktformular:</b> <br>
-Melden Sie sich gerne über das Kontaktformular oder dirket an hessekaycee@gmx.de
+Melden Sie sich gerne über das Kontaktformular oder direkt an hessekaycee@gmx.de
   
 <p> </p>    
   
@@ -43,5 +44,3 @@ Melden Sie sich gerne über das Kontaktformular oder dirket an hessekaycee@gmx.d
 </form>
 
 <p> </p>
-
-Ich für einen persönlichen Kontakt bin ich auch unter: 01525 5406876 zu erreichen
