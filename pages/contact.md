@@ -2,8 +2,7 @@
 layout              : page
 title               : "Kontakt"
 meta_title          : 
-header:
-   image_fullwidth  : "Farbe Banner.png"
+header              : no
 permalink           : "/contact/"
 ---
 
@@ -11,7 +10,7 @@ permalink           : "/contact/"
   
 <a href="https://instagram.com/kayceehesse" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Instagram" height="20%" width="20%"> </a>
 
-<a href="mailto:hessekaycee@gmx.de" target=""> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bfe6a9d11db348a7a1bcd7ab54ed154741c717d3/images/svg/gmail_old.svg" style="margin-right: 20px; margin-top: 20px" alt="Email" height="20%" width="20%"> </a>
+<a href="mailto:hessekaycee@gmx.de" target=""> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="margin-right: 20px; margin-top: 20px" alt="Email" height="20%" width="20%"> </a>
 
 <a href="https://twitter.com/KayceeHesse" target=""> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/twitter.png" style="margin-right: 20px; margin-top: 20px" alt="Twitter" height="20%" width="20%"> </a> 
 <!--https://github.com/edent/SuperTinyIcons-->
@@ -45,4 +44,4 @@ Melden Sie sich gerne über das Kontaktformular oder dirket an hessekaycee@gmx.d
 
 <p> </p>
 
-Ich für einen persönlichen Kontakt auch unter: 015255406876 zu erreichen
+Ich für einen persönlichen Kontakt bin ich auch unter: 01525 5406876 zu erreichen
