@@ -5,7 +5,7 @@ title               : ""
 subheadline         : ""
 teaser              : ""
 header:
-   title: Queere Bildung
+   title: 
    image_fullwidth  : "QueereBildung_Banner.png"
 permalink           : "/queere-bildung/"
 ---
