@@ -4,9 +4,9 @@ sidebar             : true
 show_meta           : false
 title               : ""
 subheadline         : ""
-teaser              : "Mein mit Abstand umfangreichstes und vielschichtigstes Thema"
+teaser              : ""
 header:
-   title: Klima & Umwelt
+   title: 
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/klima/"
 ---
