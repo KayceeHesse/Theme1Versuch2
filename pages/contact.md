@@ -17,7 +17,7 @@ permalink           : "/contact/"
 
 </div> <br>
 
-Sie erreichen mich über das Kontaktformular, WhatsApp, Mail und Instagram.  <br>
+Sie erreichen mich über das Kontaktformular, WhatsApp, E-Mail und Instagram.  <br>
 
 <p> </p>    
   
