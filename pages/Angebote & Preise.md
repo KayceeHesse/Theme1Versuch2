@@ -19,7 +19,7 @@ Sie möchten einen Workshop zu sexueller, geschlechtlicher und romantischer Viel
 Ich biete Ihnen einen Vortrag über 45 Minuten zu einem meiner beiden Schwerpunktthemen Klimaschutz oder queere Vielfalt, gerne auch mit vertiefendem Wissen zu einem speziellen Unterthema. Meine Vorträge sind fachlich aktuell, aber auch niedrigschwellig gehalten und sollen zum Mitdenken anregen. Mein persönliches Ziel dabei ist es, die Teilnehmenden dazu zu bewegen, über den eigenen Tellerrand hinaus zu blicken. <br>
 •	50€ Honorar
 <br>
-<h3> Projekt- & Veranstaltungsmanagement: </h3>
+<h3> Projektkoordination & Veranstaltungsmanagement: </h3>
 Sie wollen ein Projekt oder eine Veranstaltung in und um Landau umsetzen und benötigen damit Unterstützung? Ich helfe Ihnen dabei! Durch meine zielstrebige, strukturierte Arbeitsweise, mein breites Netzwerk und einiges an Erfahrung, unterstütze ich Sie gerne in Planung und Durchführung Ihres Projektes. <br>
 •	35€/h netto
 <br>
