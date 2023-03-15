@@ -33,10 +33,10 @@ Melden Sie sich gerne über das Kontaktformular bei mir oder direkt über info@k
   .background-color: green;
 </style>
 <form action="https://formspree.io/f/mayzykrz" method="POST" class="form-container">
-  <label>Emailadresse:</label><br />
-  <input type="text" name="Emailadresse" />
-  <label>Betreff:</label><br />
-  <input type="text" name="Betreff" />
+  <label>E-Mail Adresse</label><br />
+  <input type="text" name="E-Mail Adresse:" />
+  <label>Betreff</label><br />
+  <input type="text" name="Betreff:" />
   <label>Ihre Nachricht:</label><br />
   <textarea name="Nachricht"></textarea>
   <button type="submit">Absenden</button>
