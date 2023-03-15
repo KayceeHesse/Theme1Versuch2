@@ -8,7 +8,7 @@ homepage: true
 ---
 
 <h3> Wer bin ich? </h3> <br>
-Koordinatorin, Politikerin, Veranstaltungsleitung, Bildungsreferentin – Ich bin schon einiges gewesen. Am ehesten würde ich mich als Aktivistin bezeichnen. Ich bin immer aktiv, setze Projekte und Ideen in die tat um, betreue und berate Gruppen, organisiere Projekte, mache Workshops und einiges mehr.
+Koordinatorin, Politikerin, Veranstaltungsleitung, Bildungsreferentin – Ich bin schon einiges gewesen. Am ehesten würde ich mich als Aktivistin bezeichnen. Ich bin immer aktiv, setze Projekte und Ideen in die Tat um, betreue und berate Gruppen, organisiere Projekte, mache Workshops und einiges mehr.
 Als gebürtige Landauerin liegt es mir besonders daran, mit meinen Projekten eine Bereicherung für Landau und Umgebung zu schaffen und Positives für die Menschen hier vor Ort zu bewegen.
 
 <h3> Meine Arbeit: </h3> <br>
