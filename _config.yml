@@ -11,10 +11,10 @@
 title: 'Kaycee Hesse Landau'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Projektmanagement, Bildung, Klimaschutz'
+# slogan: 'Projektmanagement, Bildung, Klimaschutz'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Platzhalter: Projektmanagement, Bildung, Klimaschutz in Landau by Kaycee Hesse'
+# description: 'Platzhalter: Projektmanagement, Bildung, Klimaschutz in Landau by Kaycee Hesse'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: 
