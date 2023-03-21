@@ -13,7 +13,7 @@ permalink           : "/klima/"
 
 <h3> Waldbrände in der Südpfalz, Trinkwasserknappheit, Sturmfluten im Ahrtal. </h3> <br>
 
-<img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Horizons%20-%20Website.gif?raw=true" alt="Gif Horizons" style="float:right;" height="30%" width="30%">
+<img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Horizons%20-%20Website.gif?raw=true" alt="Gif Horizons" style="float:right;" height="30%" width="30%" hspace=30>
 
 Die fortschreitende Klimakrise ist längst zur alltäglich spürbaren Realität geworden und das nicht nur in den Nachrichten, sondern auch ganz konkret hier bei uns.
 In Rheinland-Pfalz ist die Durchschnittstemperatur bereits um über 1,6 Grad Celsius gestiegen, was sich bei uns vor allem in trockenen Hitzesommern und Starkregenereignissen manifestiert.
