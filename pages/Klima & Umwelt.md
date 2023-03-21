@@ -12,18 +12,41 @@ permalink           : "/klima/"
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-md-8 col-sm-12">
-      <h3>Waldbrände in der Südpfalz, Trinkwasserknappheit, Sturmfluten im Ahrtal.</h3>
-      <p>Die fortschreitende Klimakrise ist längst zur alltäglich spürbaren Realität geworden und das nicht nur in den Nachrichten, sondern auch ganz konkret hier bei uns.
-      In Rheinland-Pfalz ist die Durchschnittstemperatur bereits um über 1,6 Grad Celsius gestiegen, was sich bei uns vor allem in trockenen Hitzesommern und Starkregenereignissen manifestiert.
-      Der Klimawandel ist eine der größten Herausforderungen unserer Zeit und ich setze alles daran, meinen Teil dazu beizutragen, damit wir diese Herausforderung meistern können. Ich hoffe auf eine bunte, freie, lebenswerte Zukunft und arbeite jeden Tag ein Stückchen daraufhin.</p>
-    </div>
-    <div class="col-lg-4 col-md-4 col-sm-12">
-      <img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Horizons%20-%20Website.gif?raw=true" alt="Gif Horizons" style="width: 100%; height: auto; max-width: 30%; float: right; margin-top: 20px;">
-    </div>
-  </div>
+  <div class="text">
+   <h3> Waldbrände in der Südpfalz, Trinkwasserknappheit, Sturmfluten im Ahrtal. </h3> <br>
+   Die fortschreitende Klimakrise ist längst zur alltäglich spürbaren Realität geworden und das nicht nur in den Nachrichten, sondern auch ganz konkret hier bei uns.
+In Rheinland-Pfalz ist die Durchschnittstemperatur bereits um über 1,6 Grad Celsius gestiegen, was sich bei uns vor allem in trockenen Hitzesommern und Starkregenereignissen manifestiert.
+Der Klimawandel ist eine der größten Herausforderungen unserer Zeit und ich setze alles daran, meinen Teil dazu beizutragen, damit wir diese Herausforderung meistern können. Ich hoffe auf eine bunte, freie, lebenswerte Zukunft und arbeite jeden Tag ein Stückchen daraufhin.
+
+Deshalb ist mir so wichtig mit meiner Arbeit, egal ob in Fachvorträgen oder in meinen Veranstaltungen, zu zeigen wie viele Möglichkeiten wir haben, für Veränderung zu begeistern und zu Faszinieren. </div>
+  <img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Horizons%20-%20Website.gif?raw=true" alt="Horizons" class="image">
 </div>
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  flex: 1;
+}
+
+.image {
+  width: 30%;
+  margin-left: 20px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .image {
+    width: 70%;
+    margin-top: 20px;
+  }
+}
 
 <h3> Waldbrände in der Südpfalz, Trinkwasserknappheit, Sturmfluten im Ahrtal. </h3> <br>
 
