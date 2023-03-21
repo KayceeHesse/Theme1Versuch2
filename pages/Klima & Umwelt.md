@@ -20,11 +20,10 @@ permalink           : "/klima/"
       Der Klimawandel ist eine der größten Herausforderungen unserer Zeit und ich setze alles daran, meinen Teil dazu beizutragen, damit wir diese Herausforderung meistern können. Ich hoffe auf eine bunte, freie, lebenswerte Zukunft und arbeite jeden Tag ein Stückchen daraufhin.</p>
     </div>
     <div class="col-lg-4 col-md-4 col-sm-12">
-      <img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Horizons%20-%20Website.gif?raw=true" alt="Gif Horizons" style="width: 100%; height: auto;">
+      <img src="https://github.com/KayceeHesse/kayceehesse-landau.github.io/blob/main/images/Horizons%20-%20Website.gif?raw=true" alt="Gif Horizons" style="width: 100%; height: auto; max-width: 30%; float: right; margin-top: 20px;">
     </div>
   </div>
 </div>
-
 
 <h3> Waldbrände in der Südpfalz, Trinkwasserknappheit, Sturmfluten im Ahrtal. </h3> <br>
 
