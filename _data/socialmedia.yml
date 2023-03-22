@@ -42,3 +42,13 @@
 #   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil
+
+ - name: Whatsapp
+   url: https://wa.me/4915255406876
+   class: icon-whatsapp
+   title: Whatsapp
+
+ - name: Email
+   url: mailto:info@kayceehesse-landau.de
+   class: icon-gmail
+   title: Email
