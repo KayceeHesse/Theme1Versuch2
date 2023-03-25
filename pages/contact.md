@@ -32,7 +32,7 @@ Melden Sie sich gerne über das Kontaktformular bei mir oder direkt über info@k
   .form-container textarea { position: relative; top: 0; left: 0; width: 100%; height: 200px; padding: 0; }
   .background-color: green;
 </style>
-<form action="https://formspree.io/f/mayzykrz" method="POST" class="form-container">
+<form action="https://formspree.io/f/moqznryj" method="POST" class="form-container">
   <label>E-Mail Adresse:</label><br />
   <input type="text" name="E-Mail Adresse:" />
   <label>Betreff:</label><br />
