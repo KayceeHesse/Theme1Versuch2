@@ -29,3 +29,6 @@ Alles was Sie benötigen - wir finden den Einstieg. <br>
 •	200€ netto <br>
 <br>
 Bei allen genannten Dienstleistungen kommen ggf. Fahrtkosten hinzu, insbesondere bei Einsätzen außerhalb von Landau.
+Kürzere Einsätze werden anteilig nach Zeitaufwand abgerechnet.
+
+Sollten Sie aufgrund von z.B. limitiertem Vereinsbudget die üblichen Tagessätze nicht finanzieren können, sprechen Sie mich gerne an wegen Rabatten für ehrenamtliche Vereine oder wohltätige Zwecke.
